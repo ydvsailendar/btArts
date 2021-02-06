@@ -1,0 +1,4 @@
+.env
+frontend/yarn.lock
+backend/yarn.lock
+
